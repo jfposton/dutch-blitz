@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jfposton/dutch-blitz/issues"
   },
-  "homepage": "https://github.com/jfposton/dutch-blitz#readme"
+  "homepage": "https://github.com/jfposton/dutch-blitz#readme",
+  "dependencies": {
+    "lit": "^2.8.0"
+  }
 }
